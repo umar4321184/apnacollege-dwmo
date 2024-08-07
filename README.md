@@ -1,2 +1,2 @@
-# apnacollege-dwmo
+# apnacollege-demo
 This is my first repository
